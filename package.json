@@ -4,8 +4,8 @@
   "description": "15 Puzzle built with react / redux.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server",
-    "prod": "NODE_ENV=production node server.js"
+    "prod": "NODE_ENV=production node server.js",
+    "start": "webpack-dev-server"
   },
   "author": "Jonathan Case",
   "license": "ISC",
