@@ -2,7 +2,7 @@
 
 ##Start Here!
 
-To view the app either clone it down and use `npm run start`, or visit this [Heroku Link]().
+To view the app either clone it down and use `npm run start`, or visit this [Heroku Link](https://react-redux-15-puzzle.herokuapp.com/).
 
 ####Technologies Used:
  * React
